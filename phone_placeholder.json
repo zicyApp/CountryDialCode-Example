@@ -1,0 +1,1717 @@
+[
+   {
+      "country_name":"United States",
+      "dial_code":"+1",
+      "country_code":"US",
+      "example_national":"(201) 555-0123",
+      "example_international":"+1 201-555-0123"
+   },
+   {
+      "country_name":"United Kingdom",
+      "dial_code":"+44",
+      "country_code":"GB",
+      "example_national":"07400 123456",
+      "example_international":"+44 7400 123456"
+   },
+   {
+      "country_name":"Afghanistan (‫افغانستان‬‎)",
+      "dial_code":"+93",
+      "country_code":"AF",
+      "example_national":"070 123 4567",
+      "example_international":"+93 70 123 4567"
+   },
+   {
+      "country_name":"Albania (Shqipëri)",
+      "dial_code":"+355",
+      "country_code":"AL",
+      "example_national":"066 212 3456",
+      "example_international":"+355 66 212 3456"
+   },
+   {
+      "country_name":"Algeria (‫الجزائر‬‎)",
+      "dial_code":"+213",
+      "country_code":"DZ",
+      "example_national":"0551 23 45 67",
+      "example_international":"+213 551 23 45 67"
+   },
+   {
+      "country_name":"American Samoa",
+      "dial_code":"+1",
+      "country_code":"AS",
+      "example_national":"(684) 733-1234",
+      "example_international":"+1 684-733-1234"
+   },
+   {
+      "country_name":"Andorra",
+      "dial_code":"+376",
+      "country_code":"AD",
+      "example_national":"312 345",
+      "example_international":"+376 312 345"
+   },
+   {
+      "country_name":"Angola",
+      "dial_code":"+244",
+      "country_code":"AO",
+      "example_national":"923 123 456",
+      "example_international":"+244 923 123 456"
+   },
+   {
+      "country_name":"Anguilla",
+      "dial_code":"+1",
+      "country_code":"AI",
+      "example_national":"(264) 235-1234",
+      "example_international":"+1 264-235-1234"
+   },
+   {
+      "country_name":"Antigua and Barbuda",
+      "dial_code":"+1",
+      "country_code":"AG",
+      "example_national":"(268) 464-1234",
+      "example_international":"+1 268-464-1234"
+   },
+   {
+      "country_name":"Argentina",
+      "dial_code":"+54",
+      "country_code":"AR",
+      "example_national":"011 15-2345-6789",
+      "example_international":"+54 9 11 2345-6789"
+   },
+   {
+      "country_name":"Armenia (Հայաստան)",
+      "dial_code":"+374",
+      "country_code":"AM",
+      "example_national":"077 123456",
+      "example_international":"+374 77 123456"
+   },
+   {
+      "country_name":"Aruba",
+      "dial_code":"+297",
+      "country_code":"AW",
+      "example_national":"560 1234",
+      "example_international":"+297 560 1234"
+   },
+   {
+      "country_name":"Australia",
+      "dial_code":"+61",
+      "country_code":"AU",
+      "example_national":"0412 345 678",
+      "example_international":"+61 412 345 678"
+   },
+   {
+      "country_name":"Austria (Österreich)",
+      "dial_code":"+43",
+      "country_code":"AT",
+      "example_national":"0664 123456",
+      "example_international":"+43 664 123456"
+   },
+   {
+      "country_name":"Azerbaijan (Azərbaycan)",
+      "dial_code":"+994",
+      "country_code":"AZ",
+      "example_national":"040 123 45 67",
+      "example_international":"+994 40 123 45 67"
+   },
+   {
+      "country_name":"Bahamas",
+      "dial_code":"+1",
+      "country_code":"BS",
+      "example_national":"(242) 359-1234",
+      "example_international":"+1 242-359-1234"
+   },
+   {
+      "country_name":"Bahrain (‫البحرين‬‎)",
+      "dial_code":"+973",
+      "country_code":"BH",
+      "example_national":"3600 1234",
+      "example_international":"+973 3600 1234"
+   },
+   {
+      "country_name":"Bangladesh (বাংলাদেশ)",
+      "dial_code":"+880",
+      "country_code":"BD",
+      "example_national":"01812-345678",
+      "example_international":"+880 1812-345678"
+   },
+   {
+      "country_name":"Barbados",
+      "dial_code":"+1",
+      "country_code":"BB",
+      "example_national":"(246) 250-1234",
+      "example_international":"+1 246-250-1234"
+   },
+   {
+      "country_name":"Belarus (Беларусь)",
+      "dial_code":"+375",
+      "country_code":"BY",
+      "example_national":"8 029 491-19-11",
+      "example_international":"+375 29 491-19-11"
+   },
+   {
+      "country_name":"Belgium (België)",
+      "dial_code":"+32",
+      "country_code":"BE",
+      "example_national":"0470 12 34 56",
+      "example_international":"+32 470 12 34 56"
+   },
+   {
+      "country_name":"Belize",
+      "dial_code":"+501",
+      "country_code":"BZ",
+      "example_national":"622-1234",
+      "example_international":"+501 622-1234"
+   },
+   {
+      "country_name":"Benin (Bénin)",
+      "dial_code":"+229",
+      "country_code":"BJ",
+      "example_national":"90 01 12 34",
+      "example_international":"+229 90 01 12 34"
+   },
+   {
+      "country_name":"Bermuda",
+      "dial_code":"+1",
+      "country_code":"BM",
+      "example_national":"(441) 370-1234",
+      "example_international":"+1 441-370-1234"
+   },
+   {
+      "country_name":"Bhutan (འབྲུག)",
+      "dial_code":"+975",
+      "country_code":"BT",
+      "example_national":"17 12 34 56",
+      "example_international":"+975 17 12 34 56"
+   },
+   {
+      "country_name":"Bolivia",
+      "dial_code":"+591",
+      "country_code":"BO",
+      "example_national":"71234567",
+      "example_international":"+591 71234567"
+   },
+   {
+      "country_name":"Bosnia and Herzegovina (Босна и Херцеговина)",
+      "dial_code":"+387",
+      "country_code":"BA",
+      "example_national":"061 123 456",
+      "example_international":"+387 61 123 456"
+   },
+   {
+      "country_name":"Botswana",
+      "dial_code":"+267",
+      "country_code":"BW",
+      "example_national":"71 123 456",
+      "example_international":"+267 71 123 456"
+   },
+   {
+      "country_name":"Brazil (Brasil)",
+      "dial_code":"+55",
+      "country_code":"BR",
+      "example_national":"(11) 96123-4567",
+      "example_international":"+55 11 96123-4567"
+   },
+   {
+      "country_name":"British Indian Ocean Territory",
+      "dial_code":"+246",
+      "country_code":"IO",
+      "example_national":"380 1234",
+      "example_international":"+246 380 1234"
+   },
+   {
+      "country_name":"British Virgin Islands",
+      "dial_code":"+1",
+      "country_code":"VG",
+      "example_national":"(284) 300-1234",
+      "example_international":"+1 284-300-1234"
+   },
+   {
+      "country_name":"Brunei",
+      "dial_code":"+673",
+      "country_code":"BN",
+      "example_national":"712 3456",
+      "example_international":"+673 712 3456"
+   },
+   {
+      "country_name":"Bulgaria (България)",
+      "dial_code":"+359",
+      "country_code":"BG",
+      "example_national":"048 123 456",
+      "example_international":"+359 48 123 456"
+   },
+   {
+      "country_name":"Burkina Faso",
+      "dial_code":"+226",
+      "country_code":"BF",
+      "example_national":"70 12 34 56",
+      "example_international":"+226 70 12 34 56"
+   },
+   {
+      "country_name":"Burundi (Uburundi)",
+      "dial_code":"+257",
+      "country_code":"BI",
+      "example_national":"79 56 12 34",
+      "example_international":"+257 79 56 12 34"
+   },
+   {
+      "country_name":"Cambodia (កម្ពុជា)",
+      "dial_code":"+855",
+      "country_code":"KH",
+      "example_national":"091 234 567",
+      "example_international":"+855 91 234 567"
+   },
+   {
+      "country_name":"Cameroon (Cameroun)",
+      "dial_code":"+237",
+      "country_code":"CM",
+      "example_national":"6 71 23 45 67",
+      "example_international":"+237 6 71 23 45 67"
+   },
+   {
+      "country_name":"Canada",
+      "dial_code":"+1",
+      "country_code":"CA",
+      "example_national":"(506) 234-5678",
+      "example_international":"+1 506-234-5678"
+   },
+   {
+      "country_name":"Cape Verde (Kabu Verdi)",
+      "dial_code":"+238",
+      "country_code":"CV",
+      "example_national":"991 12 34",
+      "example_international":"+238 991 12 34"
+   },
+   {
+      "country_name":"Caribbean Netherlands",
+      "dial_code":"+599",
+      "country_code":"BQ",
+      "example_national":"318 1234",
+      "example_international":"+599 318 1234"
+   },
+   {
+      "country_name":"Cayman Islands",
+      "dial_code":"+1",
+      "country_code":"KY",
+      "example_national":"(345) 323-1234",
+      "example_international":"+1 345-323-1234"
+   },
+   {
+      "country_name":"Central African Republic (République centrafricaine)",
+      "dial_code":"+236",
+      "country_code":"CF",
+      "example_national":"70 01 23 45",
+      "example_international":"+236 70 01 23 45"
+   },
+   {
+      "country_name":"Chad (Tchad)",
+      "dial_code":"+235",
+      "country_code":"TD",
+      "example_national":"63 01 23 45",
+      "example_international":"+235 63 01 23 45"
+   },
+   {
+      "country_name":"Chile",
+      "dial_code":"+56",
+      "country_code":"CL",
+      "example_national":"(2) 2123 4567",
+      "example_international":"+56 2 2123 4567"
+   },
+   {
+      "country_name":"China (中国)",
+      "dial_code":"+86",
+      "country_code":"CN",
+      "example_national":"131 2345 6789",
+      "example_international":"+86 131 2345 6789"
+   },
+   {
+      "country_name":"Christmas Island",
+      "dial_code":"+61",
+      "country_code":"CX",
+      "example_national":"0412 345 678",
+      "example_international":"+61 412 345 678"
+   },
+   {
+      "country_name":"Cocos (Keeling) Islands",
+      "dial_code":"+61",
+      "country_code":"CC",
+      "example_national":"0412 345 678",
+      "example_international":"+61 412 345 678"
+   },
+   {
+      "country_name":"Colombia",
+      "dial_code":"+57",
+      "country_code":"CO",
+      "example_national":"321 1234567",
+      "example_international":"+57 321 1234567"
+   },
+   {
+      "country_name":"Comoros (‫جزر القمر‬‎)",
+      "dial_code":"+269",
+      "country_code":"KM",
+      "example_national":"321 23 45",
+      "example_international":"+269 321 23 45"
+   },
+   {
+      "country_name":"Congo (DRC) (Jamhuri ya Kidemokrasia ya Kongo)",
+      "dial_code":"+243",
+      "country_code":"CD",
+      "example_national":"0991 234 567",
+      "example_international":"+243 991 234 567"
+   },
+   {
+      "country_name":"Congo (Republic) (Congo-Brazzaville)",
+      "dial_code":"+242",
+      "country_code":"CG",
+      "example_national":"06 123 4567",
+      "example_international":"+242 06 123 4567"
+   },
+   {
+      "country_name":"Cook Islands",
+      "dial_code":"+682",
+      "country_code":"CK",
+      "example_national":"71 234",
+      "example_international":"+682 71 234"
+   },
+   {
+      "country_name":"Costa Rica",
+      "dial_code":"+506",
+      "country_code":"CR",
+      "example_national":"8312 3456",
+      "example_international":"+506 8312 3456"
+   },
+   {
+      "country_name":"Côte d’Ivoire",
+      "dial_code":"+225",
+      "country_code":"CI",
+      "example_national":"01 23 45 67",
+      "example_international":"+225 01 23 45 67"
+   },
+   {
+      "country_name":"Croatia (Hrvatska)",
+      "dial_code":"+385",
+      "country_code":"HR",
+      "example_national":"092 123 4567",
+      "example_international":"+385 92 123 4567"
+   },
+   {
+      "country_name":"Cuba",
+      "dial_code":"+53",
+      "country_code":"CU",
+      "example_national":"05 1234567",
+      "example_international":"+53 5 1234567"
+   },
+   {
+      "country_name":"Curaçao",
+      "dial_code":"+599",
+      "country_code":"CW",
+      "example_national":"9 518 1234",
+      "example_international":"+599 9 518 1234"
+   },
+   {
+      "country_name":"Cyprus (Κύπρος)",
+      "dial_code":"+357",
+      "country_code":"CY",
+      "example_national":"96 123456",
+      "example_international":"+357 96 123456"
+   },
+   {
+      "country_name":"Czech Republic (Česká republika)",
+      "dial_code":"+420",
+      "country_code":"CZ",
+      "example_national":"601 123 456",
+      "example_international":"+420 601 123 456"
+   },
+   {
+      "country_name":"Denmark (Danmark)",
+      "dial_code":"+45",
+      "country_code":"DK",
+      "example_national":"32 12 34 56",
+      "example_international":"+45 32 12 34 56"
+   },
+   {
+      "country_name":"Djibouti",
+      "dial_code":"+253",
+      "country_code":"DJ",
+      "example_national":"77 83 10 01",
+      "example_international":"+253 77 83 10 01"
+   },
+   {
+      "country_name":"Dominica",
+      "dial_code":"+1",
+      "country_code":"DM",
+      "example_national":"(767) 225-1234",
+      "example_international":"+1 767-225-1234"
+   },
+   {
+      "country_name":"Dominican Republic (República Dominicana)",
+      "dial_code":"+1",
+      "country_code":"DO",
+      "example_national":"(809) 234-5678",
+      "example_international":"+1 809-234-5678"
+   },
+   {
+      "country_name":"Ecuador",
+      "dial_code":"+593",
+      "country_code":"EC",
+      "example_national":"099 123 4567",
+      "example_international":"+593 99 123 4567"
+   },
+   {
+      "country_name":"Egypt (‫مصر‬‎)",
+      "dial_code":"+20",
+      "country_code":"EG",
+      "example_national":"0100 123 4567",
+      "example_international":"+20 100 123 4567"
+   },
+   {
+      "country_name":"El Salvador",
+      "dial_code":"+503",
+      "country_code":"SV",
+      "example_national":"7012 3456",
+      "example_international":"+503 7012 3456"
+   },
+   {
+      "country_name":"Equatorial Guinea (Guinea Ecuatorial)",
+      "dial_code":"+240",
+      "country_code":"GQ",
+      "example_national":"222 123 456",
+      "example_international":"+240 222 123 456"
+   },
+   {
+      "country_name":"Eritrea",
+      "dial_code":"+291",
+      "country_code":"ER",
+      "example_national":"07 123 456",
+      "example_international":"+291 7 123 456"
+   },
+   {
+      "country_name":"Estonia (Eesti)",
+      "dial_code":"+372",
+      "country_code":"EE",
+      "example_national":"5123 4567",
+      "example_international":"+372 5123 4567"
+   },
+   {
+      "country_name":"Ethiopia",
+      "dial_code":"+251",
+      "country_code":"ET",
+      "example_national":"091 123 4567",
+      "example_international":"+251 91 123 4567"
+   },
+   {
+      "country_name":"Falkland Islands (Islas Malvinas)",
+      "dial_code":"+500",
+      "country_code":"FK",
+      "example_national":"51234",
+      "example_international":"+500 51234"
+   },
+   {
+      "country_name":"Faroe Islands (Føroyar)",
+      "dial_code":"+298",
+      "country_code":"FO",
+      "example_national":"211234",
+      "example_international":"+298 211234"
+   },
+   {
+      "country_name":"Fiji",
+      "dial_code":"+679",
+      "country_code":"FJ",
+      "example_national":"701 2345",
+      "example_international":"+679 701 2345"
+   },
+   {
+      "country_name":"Finland (Suomi)",
+      "dial_code":"+358",
+      "country_code":"FI",
+      "example_national":"041 2345678",
+      "example_international":"+358 41 2345678"
+   },
+   {
+      "country_name":"France",
+      "dial_code":"+33",
+      "country_code":"FR",
+      "example_national":"06 12 34 56 78",
+      "example_international":"+33 6 12 34 56 78"
+   },
+   {
+      "country_name":"French Guiana (Guyane française)",
+      "dial_code":"+594",
+      "country_code":"GF",
+      "example_national":"0694 20 12 34",
+      "example_international":"+594 694 20 12 34"
+   },
+   {
+      "country_name":"French Polynesia (Polynésie française)",
+      "dial_code":"+689",
+      "country_code":"PF",
+      "example_national":"87 12 34 56",
+      "example_international":"+689 87 12 34 56"
+   },
+   {
+      "country_name":"Gabon",
+      "dial_code":"+241",
+      "country_code":"GA",
+      "example_national":"06 03 12 34",
+      "example_international":"+241 06 03 12 34"
+   },
+   {
+      "country_name":"Gambia",
+      "dial_code":"+220",
+      "country_code":"GM",
+      "example_national":"301 2345",
+      "example_international":"+220 301 2345"
+   },
+   {
+      "country_name":"Georgia (საქართველო)",
+      "dial_code":"+995",
+      "country_code":"GE",
+      "example_national":"555 12 34 56",
+      "example_international":"+995 555 12 34 56"
+   },
+   {
+      "country_name":"Germany (Deutschland)",
+      "dial_code":"+49",
+      "country_code":"DE",
+      "example_national":"01512 3456789",
+      "example_international":"+49 1512 3456789"
+   },
+   {
+      "country_name":"Ghana (Gaana)",
+      "dial_code":"+233",
+      "country_code":"GH",
+      "example_national":"023 123 4567",
+      "example_international":"+233 23 123 4567"
+   },
+   {
+      "country_name":"Gibraltar",
+      "dial_code":"+350",
+      "country_code":"GI",
+      "example_national":"57123456",
+      "example_international":"+350 57123456"
+   },
+   {
+      "country_name":"Greece (Ελλάδα)",
+      "dial_code":"+30",
+      "country_code":"GR",
+      "example_national":"691 234 5678",
+      "example_international":"+30 691 234 5678"
+   },
+   {
+      "country_name":"Greenland (Kalaallit Nunaat)",
+      "dial_code":"+299",
+      "country_code":"GL",
+      "example_national":"22 12 34",
+      "example_international":"+299 22 12 34"
+   },
+   {
+      "country_name":"Grenada",
+      "dial_code":"+1",
+      "country_code":"GD",
+      "example_national":"(473) 403-1234",
+      "example_international":"+1 473-403-1234"
+   },
+   {
+      "country_name":"Guadeloupe",
+      "dial_code":"+590",
+      "country_code":"GP",
+      "example_national":"0690 00 12 34",
+      "example_international":"+590 690 00 12 34"
+   },
+   {
+      "country_name":"Guam",
+      "dial_code":"+1",
+      "country_code":"GU",
+      "example_national":"(671) 300-1234",
+      "example_international":"+1 671-300-1234"
+   },
+   {
+      "country_name":"Guatemala",
+      "dial_code":"+502",
+      "country_code":"GT",
+      "example_national":"5123 4567",
+      "example_international":"+502 5123 4567"
+   },
+   {
+      "country_name":"Guernsey",
+      "dial_code":"+44",
+      "country_code":"GG",
+      "example_national":"07781 123456",
+      "example_international":"+44 7781 123456"
+   },
+   {
+      "country_name":"Guinea (Guinée)",
+      "dial_code":"+224",
+      "country_code":"GN",
+      "example_national":"601 12 34 56",
+      "example_international":"+224 601 12 34 56"
+   },
+   {
+      "country_name":"Guinea-Bissau (Guiné Bissau)",
+      "dial_code":"+245",
+      "country_code":"GW",
+      "example_national":"955 012 345",
+      "example_international":"+245 955 012 345"
+   },
+   {
+      "country_name":"Guyana",
+      "dial_code":"+592",
+      "country_code":"GY",
+      "example_national":"609 1234",
+      "example_international":"+592 609 1234"
+   },
+   {
+      "country_name":"Haiti",
+      "dial_code":"+509",
+      "country_code":"HT",
+      "example_national":"34 10 1234",
+      "example_international":"+509 34 10 1234"
+   },
+   {
+      "country_name":"Honduras",
+      "dial_code":"+504",
+      "country_code":"HN",
+      "example_national":"9123-4567",
+      "example_international":"+504 9123-4567"
+   },
+   {
+      "country_name":"Hong Kong (香港)",
+      "dial_code":"+852",
+      "country_code":"HK",
+      "example_national":"5123 4567",
+      "example_international":"+852 5123 4567"
+   },
+   {
+      "country_name":"Hungary (Magyarország)",
+      "dial_code":"+36",
+      "country_code":"HU",
+      "example_national":"(20) 123 4567",
+      "example_international":"+36 20 123 4567"
+   },
+   {
+      "country_name":"Iceland (Ísland)",
+      "dial_code":"+354",
+      "country_code":"IS",
+      "example_national":"611 1234",
+      "example_international":"+354 611 1234"
+   },
+   {
+      "country_name":"India (भारत)",
+      "dial_code":"+91",
+      "country_code":"IN",
+      "example_national":"081234 56789",
+      "example_international":"+91 81234 56789"
+   },
+   {
+      "country_name":"Indonesia",
+      "dial_code":"+62",
+      "country_code":"ID",
+      "example_national":"0812-345-678",
+      "example_international":"+62 812-345-678"
+   },
+   {
+      "country_name":"Iran (‫ایران‬‎)",
+      "dial_code":"+98",
+      "country_code":"IR",
+      "example_national":"0912 345 6789",
+      "example_international":"+98 912 345 6789"
+   },
+   {
+      "country_name":"Iraq (‫العراق‬‎)",
+      "dial_code":"+964",
+      "country_code":"IQ",
+      "example_national":"0791 234 5678",
+      "example_international":"+964 791 234 5678"
+   },
+   {
+      "country_name":"Ireland",
+      "dial_code":"+353",
+      "country_code":"IE",
+      "example_national":"085 012 3456",
+      "example_international":"+353 85 012 3456"
+   },
+   {
+      "country_name":"Isle of Man",
+      "dial_code":"+44",
+      "country_code":"IM",
+      "example_national":"07924 123456",
+      "example_international":"+44 7924 123456"
+   },
+   {
+      "country_name":"Israel (‫ישראל‬‎)",
+      "dial_code":"+972",
+      "country_code":"IL",
+      "example_national":"050-234-5678",
+      "example_international":"+972 50-234-5678"
+   },
+   {
+      "country_name":"Italy (Italia)",
+      "dial_code":"+39",
+      "country_code":"IT",
+      "example_national":"312 345 6789",
+      "example_international":"+39 312 345 6789"
+   },
+   {
+      "country_name":"Jamaica",
+      "dial_code":"+1",
+      "country_code":"JM",
+      "example_national":"(876) 210-1234",
+      "example_international":"+1 876-210-1234"
+   },
+   {
+      "country_name":"Japan (日本)",
+      "dial_code":"+81",
+      "country_code":"JP",
+      "example_national":"090-1234-5678",
+      "example_international":"+81 90-1234-5678"
+   },
+   {
+      "country_name":"Jersey",
+      "dial_code":"+44",
+      "country_code":"JE",
+      "example_national":"07797 712345",
+      "example_international":"+44 7797 712345"
+   },
+   {
+      "country_name":"Jordan (‫الأردن‬‎)",
+      "dial_code":"+962",
+      "country_code":"JO",
+      "example_national":"07 9012 3456",
+      "example_international":"+962 7 9012 3456"
+   },
+   {
+      "country_name":"Kazakhstan (Казахстан)",
+      "dial_code":"+7",
+      "country_code":"KZ",
+      "example_national":"8 (771) 000 9998",
+      "example_international":"+7 771 000 9998"
+   },
+   {
+      "country_name":"Kenya",
+      "dial_code":"+254",
+      "country_code":"KE",
+      "example_national":"0712 123456",
+      "example_international":"+254 712 123456"
+   },
+   {
+      "country_name":"Kiribati",
+      "dial_code":"+686",
+      "country_code":"KI",
+      "example_national":"72001234",
+      "example_international":"+686 72001234"
+   },
+   {
+      "country_name":"Kosovo",
+      "dial_code":"+383",
+      "country_code":"XK",
+      "example_national":"043 201 234",
+      "example_international":"+383 43 201 234"
+   },
+   {
+      "country_name":"Kuwait (‫الكويت‬‎)",
+      "dial_code":"+965",
+      "country_code":"KW",
+      "example_national":"500 12345",
+      "example_international":"+965 500 12345"
+   },
+   {
+      "country_name":"Kyrgyzstan (Кыргызстан)",
+      "dial_code":"+996",
+      "country_code":"KG",
+      "example_national":"0700 123 456",
+      "example_international":"+996 700 123 456"
+   },
+   {
+      "country_name":"Laos (ລາວ)",
+      "dial_code":"+856",
+      "country_code":"LA",
+      "example_national":"020 23 123 456",
+      "example_international":"+856 20 23 123 456"
+   },
+   {
+      "country_name":"Latvia (Latvija)",
+      "dial_code":"+371",
+      "country_code":"LV",
+      "example_national":"21 234 567",
+      "example_international":"+371 21 234 567"
+   },
+   {
+      "country_name":"Lebanon (‫لبنان‬‎)",
+      "dial_code":"+961",
+      "country_code":"LB",
+      "example_national":"71 123 456",
+      "example_international":"+961 71 123 456"
+   },
+   {
+      "country_name":"Lesotho",
+      "dial_code":"+266",
+      "country_code":"LS",
+      "example_national":"5012 3456",
+      "example_international":"+266 5012 3456"
+   },
+   {
+      "country_name":"Liberia",
+      "dial_code":"+231",
+      "country_code":"LR",
+      "example_national":"077 012 3456",
+      "example_international":"+231 77 012 3456"
+   },
+   {
+      "country_name":"Libya (‫ليبيا‬‎)",
+      "dial_code":"+218",
+      "country_code":"LY",
+      "example_national":"091-2345678",
+      "example_international":"+218 91-2345678"
+   },
+   {
+      "country_name":"Liechtenstein",
+      "dial_code":"+423",
+      "country_code":"LI",
+      "example_national":"660 234 567",
+      "example_international":"+423 660 234 567"
+   },
+   {
+      "country_name":"Lithuania (Lietuva)",
+      "dial_code":"+370",
+      "country_code":"LT",
+      "example_national":"(8-612) 34567",
+      "example_international":"+370 612 34567"
+   },
+   {
+      "country_name":"Luxembourg",
+      "dial_code":"+352",
+      "country_code":"LU",
+      "example_national":"628 123 456",
+      "example_international":"+352 628 123 456"
+   },
+   {
+      "country_name":"Macau (澳門)",
+      "dial_code":"+853",
+      "country_code":"MO",
+      "example_national":"6612 3456",
+      "example_international":"+853 6612 3456"
+   },
+   {
+      "country_name":"Macedonia (FYROM) (Македонија)",
+      "dial_code":"+389",
+      "country_code":"MK",
+      "example_national":"072 345 678",
+      "example_international":"+389 72 345 678"
+   },
+   {
+      "country_name":"Madagascar (Madagasikara)",
+      "dial_code":"+261",
+      "country_code":"MG",
+      "example_national":"032 12 345 67",
+      "example_international":"+261 32 12 345 67"
+   },
+   {
+      "country_name":"Malawi",
+      "dial_code":"+265",
+      "country_code":"MW",
+      "example_national":"0991 23 45 67",
+      "example_international":"+265 991 23 45 67"
+   },
+   {
+      "country_name":"Malaysia",
+      "dial_code":"+60",
+      "country_code":"MY",
+      "example_national":"012-345 6789",
+      "example_international":"+60 12-345 6789"
+   },
+   {
+      "country_name":"Maldives",
+      "dial_code":"+960",
+      "country_code":"MV",
+      "example_national":"771-2345",
+      "example_international":"+960 771-2345"
+   },
+   {
+      "country_name":"Mali",
+      "dial_code":"+223",
+      "country_code":"ML",
+      "example_national":"65 01 23 45",
+      "example_international":"+223 65 01 23 45"
+   },
+   {
+      "country_name":"Malta",
+      "dial_code":"+356",
+      "country_code":"MT",
+      "example_national":"9696 1234",
+      "example_international":"+356 9696 1234"
+   },
+   {
+      "country_name":"Marshall Islands",
+      "dial_code":"+692",
+      "country_code":"MH",
+      "example_national":"235-1234",
+      "example_international":"+692 235-1234"
+   },
+   {
+      "country_name":"Martinique",
+      "dial_code":"+596",
+      "country_code":"MQ",
+      "example_national":"0696 20 12 34",
+      "example_international":"+596 696 20 12 34"
+   },
+   {
+      "country_name":"Mauritania (‫موريتانيا‬‎)",
+      "dial_code":"+222",
+      "country_code":"MR",
+      "example_national":"22 12 34 56",
+      "example_international":"+222 22 12 34 56"
+   },
+   {
+      "country_name":"Mauritius (Moris)",
+      "dial_code":"+230",
+      "country_code":"MU",
+      "example_national":"5251 2345",
+      "example_international":"+230 5251 2345"
+   },
+   {
+      "country_name":"Mayotte",
+      "dial_code":"+262",
+      "country_code":"YT",
+      "example_national":"0639 01 23 45",
+      "example_international":"+262 639 01 23 45"
+   },
+   {
+      "country_name":"Mexico (México)",
+      "dial_code":"+52",
+      "country_code":"MX",
+      "example_national":"044 222 123 4567",
+      "example_international":"+52 1 222 123 4567"
+   },
+   {
+      "country_name":"Micronesia",
+      "dial_code":"+691",
+      "country_code":"FM",
+      "example_national":"350 1234",
+      "example_international":"+691 350 1234"
+   },
+   {
+      "country_name":"Moldova (Republica Moldova)",
+      "dial_code":"+373",
+      "country_code":"MD",
+      "example_national":"0621 12 345",
+      "example_international":"+373 621 12 345"
+   },
+   {
+      "country_name":"Monaco",
+      "dial_code":"+377",
+      "country_code":"MC",
+      "example_national":"06 12 34 56 78",
+      "example_international":"+377 6 12 34 56 78"
+   },
+   {
+      "country_name":"Mongolia (Монгол)",
+      "dial_code":"+976",
+      "country_code":"MN",
+      "example_national":"8812 3456",
+      "example_international":"+976 8812 3456"
+   },
+   {
+      "country_name":"Montenegro (Crna Gora)",
+      "dial_code":"+382",
+      "country_code":"ME",
+      "example_national":"067 622 901",
+      "example_international":"+382 67 622 901"
+   },
+   {
+      "country_name":"Montserrat",
+      "dial_code":"+1",
+      "country_code":"MS",
+      "example_national":"(664) 492-3456",
+      "example_international":"+1 664-492-3456"
+   },
+   {
+      "country_name":"Morocco (‫المغرب‬‎)",
+      "dial_code":"+212",
+      "country_code":"MA",
+      "example_national":"0650-123456",
+      "example_international":"+212 650-123456"
+   },
+   {
+      "country_name":"Mozambique (Moçambique)",
+      "dial_code":"+258",
+      "country_code":"MZ",
+      "example_national":"82 123 4567",
+      "example_international":"+258 82 123 4567"
+   },
+   {
+      "country_name":"Myanmar (Burma) (မြန်မာ)",
+      "dial_code":"+95",
+      "country_code":"MM",
+      "example_national":"09 212 3456",
+      "example_international":"+95 9 212 3456"
+   },
+   {
+      "country_name":"Namibia (Namibië)",
+      "dial_code":"+264",
+      "country_code":"NA",
+      "example_national":"081 123 4567",
+      "example_international":"+264 81 123 4567"
+   },
+   {
+      "country_name":"Nauru",
+      "dial_code":"+674",
+      "country_code":"NR",
+      "example_national":"555 1234",
+      "example_international":"+674 555 1234"
+   },
+   {
+      "country_name":"Nepal (नेपाल)",
+      "dial_code":"+977",
+      "country_code":"NP",
+      "example_national":"984-1234567",
+      "example_international":"+977 984-1234567"
+   },
+   {
+      "country_name":"Netherlands (Nederland)",
+      "dial_code":"+31",
+      "country_code":"NL",
+      "example_national":"06 12345678",
+      "example_international":"+31 6 12345678"
+   },
+   {
+      "country_name":"New Caledonia (Nouvelle-Calédonie)",
+      "dial_code":"+687",
+      "country_code":"NC",
+      "example_national":"75.12.34",
+      "example_international":"+687 75.12.34"
+   },
+   {
+      "country_name":"New Zealand",
+      "dial_code":"+64",
+      "country_code":"NZ",
+      "example_national":"021 123 4567",
+      "example_international":"+64 21 123 4567"
+   },
+   {
+      "country_name":"Nicaragua",
+      "dial_code":"+505",
+      "country_code":"NI",
+      "example_national":"8123 4567",
+      "example_international":"+505 8123 4567"
+   },
+   {
+      "country_name":"Niger (Nijar)",
+      "dial_code":"+227",
+      "country_code":"NE",
+      "example_national":"93 12 34 56",
+      "example_international":"+227 93 12 34 56"
+   },
+   {
+      "country_name":"Nigeria",
+      "dial_code":"+234",
+      "country_code":"NG",
+      "example_national":"0802 123 4567",
+      "example_international":"+234 802 123 4567"
+   },
+   {
+      "country_name":"Niue",
+      "dial_code":"+683",
+      "country_code":"NU",
+      "example_national":"888 4012",
+      "example_international":"+683 888 4012"
+   },
+   {
+      "country_name":"Norfolk Island",
+      "dial_code":"+672",
+      "country_code":"NF",
+      "example_national":"3 81234",
+      "example_international":"+672 3 81234"
+   },
+   {
+      "country_name":"North Korea (조선 민주주의 인민 공화국)",
+      "dial_code":"+850",
+      "country_code":"KP",
+      "example_national":"0192 123 4567",
+      "example_international":"+850 192 123 4567"
+   },
+   {
+      "country_name":"Northern Mariana Islands",
+      "dial_code":"+1",
+      "country_code":"MP",
+      "example_national":"(670) 234-5678",
+      "example_international":"+1 670-234-5678"
+   },
+   {
+      "country_name":"Norway (Norge)",
+      "dial_code":"+47",
+      "country_code":"NO",
+      "example_national":"406 12 345",
+      "example_international":"+47 406 12 345"
+   },
+   {
+      "country_name":"Oman (‫عُمان‬‎)",
+      "dial_code":"+968",
+      "country_code":"OM",
+      "example_national":"9212 3456",
+      "example_international":"+968 9212 3456"
+   },
+   {
+      "country_name":"Pakistan (‫پاکستان‬‎)",
+      "dial_code":"+92",
+      "country_code":"PK",
+      "example_national":"0301 2345678",
+      "example_international":"+92 301 2345678"
+   },
+   {
+      "country_name":"Palau",
+      "dial_code":"+680",
+      "country_code":"PW",
+      "example_national":"620 1234",
+      "example_international":"+680 620 1234"
+   },
+   {
+      "country_name":"Palestine (‫فلسطين‬‎)",
+      "dial_code":"+970",
+      "country_code":"PS",
+      "example_national":"0599 123 456",
+      "example_international":"+970 599 123 456"
+   },
+   {
+      "country_name":"Panama (Panamá)",
+      "dial_code":"+507",
+      "country_code":"PA",
+      "example_national":"6123-4567",
+      "example_international":"+507 6123-4567"
+   },
+   {
+      "country_name":"Papua New Guinea",
+      "dial_code":"+675",
+      "country_code":"PG",
+      "example_national":"7012 3456",
+      "example_international":"+675 7012 3456"
+   },
+   {
+      "country_name":"Paraguay",
+      "dial_code":"+595",
+      "country_code":"PY",
+      "example_national":"0961 456789",
+      "example_international":"+595 961 456789"
+   },
+   {
+      "country_name":"Peru (Perú)",
+      "dial_code":"+51",
+      "country_code":"PE",
+      "example_national":"912 345 678",
+      "example_international":"+51 912 345 678"
+   },
+   {
+      "country_name":"Philippines",
+      "dial_code":"+63",
+      "country_code":"PH",
+      "example_national":"0905 123 4567",
+      "example_international":"+63 905 123 4567"
+   },
+   {
+      "country_name":"Poland (Polska)",
+      "dial_code":"+48",
+      "country_code":"PL",
+      "example_national":"512 345 678",
+      "example_international":"+48 512 345 678"
+   },
+   {
+      "country_name":"Portugal",
+      "dial_code":"+351",
+      "country_code":"PT",
+      "example_national":"912 345 678",
+      "example_international":"+351 912 345 678"
+   },
+   {
+      "country_name":"Puerto Rico",
+      "dial_code":"+1",
+      "country_code":"PR",
+      "example_national":"(787) 234-5678",
+      "example_international":"+1 787-234-5678"
+   },
+   {
+      "country_name":"Qatar (‫قطر‬‎)",
+      "dial_code":"+974",
+      "country_code":"QA",
+      "example_national":"3312 3456",
+      "example_international":"+974 3312 3456"
+   },
+   {
+      "country_name":"Réunion (La Réunion)",
+      "dial_code":"+262",
+      "country_code":"RE",
+      "example_national":"0692 12 34 56",
+      "example_international":"+262 692 12 34 56"
+   },
+   {
+      "country_name":"Romania (România)",
+      "dial_code":"+40",
+      "country_code":"RO",
+      "example_national":"0712 034 567",
+      "example_international":"+40 712 034 567"
+   },
+   {
+      "country_name":"Russia (Россия)",
+      "dial_code":"+7",
+      "country_code":"RU",
+      "example_national":"8 (912) 345-67-89",
+      "example_international":"+7 912 345-67-89"
+   },
+   {
+      "country_name":"Rwanda",
+      "dial_code":"+250",
+      "country_code":"RW",
+      "example_national":"0720 123 456",
+      "example_international":"+250 720 123 456"
+   },
+   {
+      "country_name":"Saint Barthélemy",
+      "dial_code":"+590",
+      "country_code":"BL",
+      "example_national":"0690 00 12 34",
+      "example_international":"+590 690 00 12 34"
+   },
+   {
+      "country_name":"Saint Helena",
+      "dial_code":"+290",
+      "country_code":"SH",
+      "example_national":"51234",
+      "example_international":"+290 51234"
+   },
+   {
+      "country_name":"Saint Kitts and Nevis",
+      "dial_code":"+1",
+      "country_code":"KN",
+      "example_national":"(869) 765-2917",
+      "example_international":"+1 869-765-2917"
+   },
+   {
+      "country_name":"Saint Lucia",
+      "dial_code":"+1",
+      "country_code":"LC",
+      "example_national":"(758) 284-5678",
+      "example_international":"+1 758-284-5678"
+   },
+   {
+      "country_name":"Saint Martin (Saint-Martin (partie française))",
+      "dial_code":"+590",
+      "country_code":"MF",
+      "example_national":"0690 00 12 34",
+      "example_international":"+590 690 00 12 34"
+   },
+   {
+      "country_name":"Saint Pierre and Miquelon (Saint-Pierre-et-Miquelon)",
+      "dial_code":"+508",
+      "country_code":"PM",
+      "example_national":"055 12 34",
+      "example_international":"+508 55 12 34"
+   },
+   {
+      "country_name":"Saint Vincent and the Grenadines",
+      "dial_code":"+1",
+      "country_code":"VC",
+      "example_national":"(784) 430-1234",
+      "example_international":"+1 784-430-1234"
+   },
+   {
+      "country_name":"Samoa",
+      "dial_code":"+685",
+      "country_code":"WS",
+      "example_national":"72 12345",
+      "example_international":"+685 72 12345"
+   },
+   {
+      "country_name":"San Marino",
+      "dial_code":"+378",
+      "country_code":"SM",
+      "example_national":"66 66 12 12",
+      "example_international":"+378 66 66 12 12"
+   },
+   {
+      "country_name":"São Tomé and Príncipe (São Tomé e Príncipe)",
+      "dial_code":"+239",
+      "country_code":"ST",
+      "example_national":"981 2345",
+      "example_international":"+239 981 2345"
+   },
+   {
+      "country_name":"Saudi Arabia (‫المملكة العربية السعودية‬‎)",
+      "dial_code":"+966",
+      "country_code":"SA",
+      "example_national":"051 234 5678",
+      "example_international":"+966 51 234 5678"
+   },
+   {
+      "country_name":"Senegal (Sénégal)",
+      "dial_code":"+221",
+      "country_code":"SN",
+      "example_national":"70 123 45 67",
+      "example_international":"+221 70 123 45 67"
+   },
+   {
+      "country_name":"Serbia (Србија)",
+      "dial_code":"+381",
+      "country_code":"RS",
+      "example_national":"060 1234567",
+      "example_international":"+381 60 1234567"
+   },
+   {
+      "country_name":"Seychelles",
+      "dial_code":"+248",
+      "country_code":"SC",
+      "example_national":"2 510 123",
+      "example_international":"+248 2 510 123"
+   },
+   {
+      "country_name":"Sierra Leone",
+      "dial_code":"+232",
+      "country_code":"SL",
+      "example_national":"(025) 123456",
+      "example_international":"+232 25 123456"
+   },
+   {
+      "country_name":"Singapore",
+      "dial_code":"+65",
+      "country_code":"SG",
+      "example_national":"8123 4567",
+      "example_international":"+65 8123 4567"
+   },
+   {
+      "country_name":"Sint Maarten",
+      "dial_code":"+1",
+      "country_code":"SX",
+      "example_national":"(721) 520-5678",
+      "example_international":"+1 721-520-5678"
+   },
+   {
+      "country_name":"Slovakia (Slovensko)",
+      "dial_code":"+421",
+      "country_code":"SK",
+      "example_national":"0912 123 456",
+      "example_international":"+421 912 123 456"
+   },
+   {
+      "country_name":"Slovenia (Slovenija)",
+      "dial_code":"+386",
+      "country_code":"SI",
+      "example_national":"031 234 567",
+      "example_international":"+386 31 234 567"
+   },
+   {
+      "country_name":"Solomon Islands",
+      "dial_code":"+677",
+      "country_code":"SB",
+      "example_national":"74 21234",
+      "example_international":"+677 74 21234"
+   },
+   {
+      "country_name":"Somalia (Soomaaliya)",
+      "dial_code":"+252",
+      "country_code":"SO",
+      "example_national":"7 1123456",
+      "example_international":"+252 7 1123456"
+   },
+   {
+      "country_name":"South Africa",
+      "dial_code":"+27",
+      "country_code":"ZA",
+      "example_national":"071 123 4567",
+      "example_international":"+27 71 123 4567"
+   },
+   {
+      "country_name":"South Korea (대한민국)",
+      "dial_code":"+82",
+      "country_code":"KR",
+      "example_national":"010-0000-0000",
+      "example_international":"+82 10-0000-0000"
+   },
+   {
+      "country_name":"South Sudan (‫جنوب السودان‬‎)",
+      "dial_code":"+211",
+      "country_code":"SS",
+      "example_national":"0977 123 456",
+      "example_international":"+211 977 123 456"
+   },
+   {
+      "country_name":"Spain (España)",
+      "dial_code":"+34",
+      "country_code":"ES",
+      "example_national":"612 34 56 78",
+      "example_international":"+34 612 34 56 78"
+   },
+   {
+      "country_name":"Sri Lanka (ශ්‍රී ලංකාව)",
+      "dial_code":"+94",
+      "country_code":"LK",
+      "example_national":"071 234 5678",
+      "example_international":"+94 71 234 5678"
+   },
+   {
+      "country_name":"Sudan (‫السودان‬‎)",
+      "dial_code":"+249",
+      "country_code":"SD",
+      "example_national":"091 123 1234",
+      "example_international":"+249 91 123 1234"
+   },
+   {
+      "country_name":"Suriname",
+      "dial_code":"+597",
+      "country_code":"SR",
+      "example_national":"741-2345",
+      "example_international":"+597 741-2345"
+   },
+   {
+      "country_name":"Svalbard and Jan Mayen",
+      "dial_code":"+47",
+      "country_code":"SJ",
+      "example_national":"412 34 567",
+      "example_international":"+47 412 34 567"
+   },
+   {
+      "country_name":"Swaziland",
+      "dial_code":"+268",
+      "country_code":"SZ",
+      "example_national":"7612 3456",
+      "example_international":"+268 7612 3456"
+   },
+   {
+      "country_name":"Sweden (Sverige)",
+      "dial_code":"+46",
+      "country_code":"SE",
+      "example_national":"070-123 45 67",
+      "example_international":"+46 70 123 45 67"
+   },
+   {
+      "country_name":"Switzerland (Schweiz)",
+      "dial_code":"+41",
+      "country_code":"CH",
+      "example_national":"078 123 45 67",
+      "example_international":"+41 78 123 45 67"
+   },
+   {
+      "country_name":"Syria (‫سوريا‬‎)",
+      "dial_code":"+963",
+      "country_code":"SY",
+      "example_national":"0944 567 890",
+      "example_international":"+963 944 567 890"
+   },
+   {
+      "country_name":"Taiwan (台灣)",
+      "dial_code":"+886",
+      "country_code":"TW",
+      "example_national":"0912 345 678",
+      "example_international":"+886 912 345 678"
+   },
+   {
+      "country_name":"Tajikistan",
+      "dial_code":"+992",
+      "country_code":"TJ",
+      "example_national":"917 12 3456",
+      "example_international":"+992 917 12 3456"
+   },
+   {
+      "country_name":"Tanzania",
+      "dial_code":"+255",
+      "country_code":"TZ",
+      "example_national":"0621 234 567",
+      "example_international":"+255 621 234 567"
+   },
+   {
+      "country_name":"Thailand (ไทย)",
+      "dial_code":"+66",
+      "country_code":"TH",
+      "example_national":"081 234 5678",
+      "example_international":"+66 81 234 5678"
+   },
+   {
+      "country_name":"Timor-Leste",
+      "dial_code":"+670",
+      "country_code":"TL",
+      "example_national":"7721 2345",
+      "example_international":"+670 7721 2345"
+   },
+   {
+      "country_name":"Togo",
+      "dial_code":"+228",
+      "country_code":"TG",
+      "example_national":"90 11 23 45",
+      "example_international":"+228 90 11 23 45"
+   },
+   {
+      "country_name":"Tokelau",
+      "dial_code":"+690",
+      "country_code":"TK",
+      "example_national":"7290",
+      "example_international":"+690 7290"
+   },
+   {
+      "country_name":"Tonga",
+      "dial_code":"+676",
+      "country_code":"TO",
+      "example_national":"771 5123",
+      "example_international":"+676 771 5123"
+   },
+   {
+      "country_name":"Trinidad and Tobago",
+      "dial_code":"+1",
+      "country_code":"TT",
+      "example_national":"(868) 291-1234",
+      "example_international":"+1 868-291-1234"
+   },
+   {
+      "country_name":"Tunisia (‫تونس‬‎)",
+      "dial_code":"+216",
+      "country_code":"TN",
+      "example_national":"20 123 456",
+      "example_international":"+216 20 123 456"
+   },
+   {
+      "country_name":"Turkey (Türkiye)",
+      "dial_code":"+90",
+      "country_code":"TR",
+      "example_national":"0501 234 56 78",
+      "example_international":"+90 501 234 56 78"
+   },
+   {
+      "country_name":"Turkmenistan",
+      "dial_code":"+993",
+      "country_code":"TM",
+      "example_national":"8 66 123456",
+      "example_international":"+993 66 123456"
+   },
+   {
+      "country_name":"Turks and Caicos Islands",
+      "dial_code":"+1",
+      "country_code":"TC",
+      "example_national":"(649) 231-1234",
+      "example_international":"+1 649-231-1234"
+   },
+   {
+      "country_name":"Tuvalu",
+      "dial_code":"+688",
+      "country_code":"TV",
+      "example_national":"901234",
+      "example_international":"+688 901234"
+   },
+   {
+      "country_name":"U.S. Virgin Islands",
+      "dial_code":"+1",
+      "country_code":"VI",
+      "example_national":"(340) 642-1234",
+      "example_international":"+1 340-642-1234"
+   },
+   {
+      "country_name":"Uganda",
+      "dial_code":"+256",
+      "country_code":"UG",
+      "example_national":"0712 345678",
+      "example_international":"+256 712 345678"
+   },
+   {
+      "country_name":"Ukraine (Україна)",
+      "dial_code":"+380",
+      "country_code":"UA",
+      "example_national":"039 123 4567",
+      "example_international":"+380 39 123 4567"
+   },
+   {
+      "country_name":"United Arab Emirates (‫الإمارات العربية المتحدة‬‎)",
+      "dial_code":"+971",
+      "country_code":"AE",
+      "example_national":"050 123 4567",
+      "example_international":"+971 50 123 4567"
+   },
+   {
+      "country_name":"United Kingdom",
+      "dial_code":"+44",
+      "country_code":"GB",
+      "example_national":"07400 123456",
+      "example_international":"+44 7400 123456"
+   },
+   {
+      "country_name":"United States",
+      "dial_code":"+1",
+      "country_code":"US",
+      "example_national":"(201) 555-0123",
+      "example_international":"+1 201-555-0123"
+   },
+   {
+      "country_name":"Uruguay",
+      "dial_code":"+598",
+      "country_code":"UY",
+      "example_national":"094 231 234",
+      "example_international":"+598 94 231 234"
+   },
+   {
+      "country_name":"Uzbekistan (Oʻzbekiston)",
+      "dial_code":"+998",
+      "country_code":"UZ",
+      "example_national":"8 91 234 56 78",
+      "example_international":"+998 91 234 56 78"
+   },
+   {
+      "country_name":"Vanuatu",
+      "dial_code":"+678",
+      "country_code":"VU",
+      "example_national":"591 2345",
+      "example_international":"+678 591 2345"
+   },
+   {
+      "country_name":"Vatican City (Città del Vaticano)",
+      "dial_code":"+39",
+      "country_code":"VA",
+      "example_national":"312 345 6789",
+      "example_international":"+39 312 345 6789"
+   },
+   {
+      "country_name":"Venezuela",
+      "dial_code":"+58",
+      "country_code":"VE",
+      "example_national":"0412-1234567",
+      "example_international":"+58 412-1234567"
+   },
+   {
+      "country_name":"Vietnam (Việt Nam)",
+      "dial_code":"+84",
+      "country_code":"VN",
+      "example_national":"091 234 56 78",
+      "example_international":"+84 91 234 56 78"
+   },
+   {
+      "country_name":"Wallis and Futuna (Wallis-et-Futuna)",
+      "dial_code":"+681",
+      "country_code":"WF",
+      "example_national":"50 12 34",
+      "example_international":"+681 50 12 34"
+   },
+   {
+      "country_name":"Western Sahara (‫الصحراء الغربية‬‎)",
+      "dial_code":"+212",
+      "country_code":"EH",
+      "example_national":"0650-123456",
+      "example_international":"+212 650-123456"
+   },
+   {
+      "country_name":"Yemen (‫اليمن‬‎)",
+      "dial_code":"+967",
+      "country_code":"YE",
+      "example_national":"0712 345 678",
+      "example_international":"+967 712 345 678"
+   },
+   {
+      "country_name":"Zambia",
+      "dial_code":"+260",
+      "country_code":"ZM",
+      "example_national":"095 5123456",
+      "example_international":"+260 95 5123456"
+   },
+   {
+      "country_name":"Zimbabwe",
+      "dial_code":"+263",
+      "country_code":"ZW",
+      "example_national":"071 234 5678",
+      "example_international":"+263 71 234 5678"
+   },
+   {
+      "country_name":"Åland Islands",
+      "dial_code":"+358",
+      "country_code":"AX",
+      "example_national":"041 2345678",
+      "example_international":"+358 41 2345678"
+   }
+]
